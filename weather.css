@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url('./landscape-3369304_1920.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   width: 100;
+   color: #fff;
+   
+}
+
+.temp
+{
+font-size: 100px;
+color: #fff;
+/*box-shadow: inset 1px 1px 39px 1px #666;*/
+}
+.card
+{
+    background: transparent;
+    box-shadow: inset 1px 1px  39px 1px #666;
+}
+
+.div
+{
+    background: blue;
+}
